@@ -12,7 +12,7 @@ const Home = () => {
                 <br/>
                 Kailee
                 <br/>
-                <img src={Logo}></img><br/>
+                <img src={Logo}></img><br/>So
                 Web Developer</h1>
                 <h2>Full-Stack Developer / Junior Systems Administrator</h2>
                 <Link to="/contact" className="flat-button">Contact Me!</Link>
